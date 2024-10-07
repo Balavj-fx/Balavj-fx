@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bala Subramanian</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img src = "![17282932172903398400204247988840](https://github.com/user-attachments/assets/e8a441d9-ef50-4f2f-a09f-6f7d88daa8cc)"
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balavj-fx&label=Profile%20views&color=0e75b6&style=flat" alt="balavj-fx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balavj-fx" alt="balavj-fx" /></a> </p>
